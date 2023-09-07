@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://llparagranell.github.io/",
+  "homepage": "https://llparagranell.github.io/PortfolioManagementClient",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
